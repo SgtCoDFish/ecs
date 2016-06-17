@@ -40,7 +40,7 @@ Pages 728 - 733
 Original link to slides from book [at gamasutra.com](http://www.gamasutra.com/features/gdarchive/2002/rob_fermier.ppt) does not give expected result.
 
 - Scott Bilas, ["A Data-Driven Game Object System"](http://www.gdcvault.com/play/1022543/A-Data-Driven-Object), Game Developer's Conference, 2002.   
-Original link to slides from book [at drizzle.com](http://drizzle.com/~scottb/gdc/game-objects.ppt) is down.
+Original link to slides from book [at drizzle.com](http://drizzle.com/~scottb/gdc/game-objects.ppt) is down. Slides available at [Scott Bilas's site](http://scottbilas.com/games/dungeon-siege/).
 
 - Alex Duran, ["Building Object Systems: Features, Tradeoffs and Pitfalls"](http://www.gdcvault.com/play/1022628/Building-An-Object-System-Features), Game Developer's Conference, 2003.   
 Original link to slides from book [at gamasutra.com](http://www.gamasutra.com/features/gdcarchive/2003/Duran_Alex.ppt) does not give expected result.
